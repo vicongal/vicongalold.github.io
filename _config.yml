@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "ViCON 2019"
 email: "vicon@galicia.com"
 description: "ViCON information security conference. Vigo, Galicia. Spain."
-baseurl: "/zeppelin"
+baseurl: "/"
 url: "https://vicongal.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
